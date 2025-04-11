@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8827915138424152226
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2306914702547425688, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306914702547425688, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306914702547425688, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306914702547425688, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306914702547425688, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306914702547425688, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306914702547425688, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306914702547425688, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306914702547425688, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306914702547425688, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3105670958329177230, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_Name
+      value: hubbe gubbe Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5257814127370893640, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8006878
+      objectReference: {fileID: 0}
+    - target: {fileID: 5257814127370893640, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_Size.y
+      value: 0.53263044
+      objectReference: {fileID: 0}
+    - target: {fileID: 5257814127370893640, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_Offset.x
+      value: 4.7880735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5257814127370893640, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
+      propertyPath: m_Offset.y
+      value: 2.768717
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 19e7edd1caaafda4b90f9cab4f4932ae, type: 3}
